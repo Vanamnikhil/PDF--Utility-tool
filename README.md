@@ -1,7 +1,5 @@
 # PDF utility script
-The PDF utility script is designed to perform a set of operations on images and pdf files. The idea comes from a 
-blog post I wrote as reference on how to compress and merge pdf files via terminal using the gostscript, you can
-find it here[https://fabiopacifici.com/ubuntu-using-the-ghost-script-to-compress-pdf-files/]
+The PDF utility script is designed to perform a set of operations on images and pdf files. 
 - Converts images in pdf files
 - resize images to a given size
 - merges pdf files into a single file
